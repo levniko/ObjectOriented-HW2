@@ -1,2 +1,2 @@
 # ObjectOrientedC-HW2
-This is a shipping business management utility program with object oriented programmin with C++.
+This is a shipping business management utility program with object oriented programmin in C++.
